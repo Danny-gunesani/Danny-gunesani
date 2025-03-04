@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1PO53skRk6QHuRldzspoeNhczDXayUyMf)]
+[![MasterHead](https://raw.githubusercontent.com/Danny-gunesani/Danny-gunesani/refs/heads/main/Banner.png)]
 <h1 align="center">Hi 👋, I'm Doulat</h1>  
 <h3 align="center">A passionate Python developer</h3>  
 
